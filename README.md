@@ -13,6 +13,6 @@
 
 ## Front instalation 
 
-<p>$ cd front </p>
+<p>$ cd angular </p>
 <p>$ npm install </p>
 
